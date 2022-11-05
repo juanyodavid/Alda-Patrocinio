@@ -1,0 +1,4 @@
+para la sesion de la base de datos en la web se tiene
+
+patrocinio_database:aldaadmin: Alda2019*
+sesiondb:sesionadmin:Sesionadmin19

@@ -1,0 +1,11 @@
+Separar Nombres de Apellidos 
+Agregar despues de Nro de Contacto Ci de padre o encargado
+Agregar Grado de Parentezco
+Sacar Grado y Año de incripción ya que eso forma parte del CDF
+Aclarar altura debe ser en cm
+MNAH - Razón por la cual la madre no vive con la Familia completar enuncuiado
+Agregar ubicacion del hogar del niño
+Error en el reporte de Asistentes
+Error al Cargar Cliente Interno
+
+

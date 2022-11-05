@@ -1,0 +1,7 @@
+al registrarse la persona dependiendoo del codigo de registro la registra como principal o scundario
+ahora al poner un usuaio ya le detecta si es un admin o no y dependiendo de eso le redireciona hacia la 
+pagina correspondiente(tdv falta el redireccionamiento correcto si no inicia sesion como un administrador)
+hay que utilizar un modal check para las tareas
+falta la asignacion en si a partir de los datos recibidos
+el sort table no esta correcto(usar el que tiene papa en principal php)
+ademas falta el buscador para que encuentre lo que estamo sbuscando y no desordene todo otv

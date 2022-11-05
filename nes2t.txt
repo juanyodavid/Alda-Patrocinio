@@ -1,0 +1,10 @@
+en anl cpr hay que agrgar quien va a ser y en que fecha, por eso se necesita dos columnas
+en la tabla anl_cpr agrgar fecha de visita prevista
+poner un check para asignar una persona a varias tareas
+
+
+se modifica la tabla beneficiario_interno 
+el id deja de ser int y pasa a ser varchar
+
+a la tabla facilitador se agrega 2 columnas,
+barrio donde es efectivo, nombre y apellidos
